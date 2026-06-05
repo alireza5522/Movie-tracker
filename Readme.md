@@ -4,8 +4,6 @@ A modern, beautiful movie and TV series watchlist tracker built with React, Type
 
 Drag and drop IMDB links to instantly add movies or series to your personal watchlist. Track your progress, manage seasons and episodes, and get notified about new episodes.
 
-![Movie Tracker Preview](https://via.placeholder.com/800x400/1e2937/60a5fa?text=Movie+Tracker+Screenshot)
-
 ## ✨ Features
 
 - **Drag & Drop IMDB Integration**: Simply drag any IMDB movie/series link into the app
