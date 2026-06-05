@@ -1,4 +1,3 @@
-```markdown
 # Movie Tracker
 
 A modern, beautiful movie and TV series watchlist tracker built with React, TypeScript, Tailwind CSS, and Supabase.
